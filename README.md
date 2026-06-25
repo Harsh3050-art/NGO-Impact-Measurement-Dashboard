@@ -104,8 +104,7 @@ NGO-Impact-Measurement-Dashboard/
 ├── notebooks/
 ├── dashboard/
 ├── docs/
-├── outputs/
-└── assets/
+
 ```
 
 ---
